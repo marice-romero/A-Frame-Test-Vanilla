@@ -57,7 +57,7 @@ function App() {
       {/* <a-box color="tomato" depth="2" height="4" width="0.5"></a-box> */}
       {/* Camera */}
       <a-entity camera></a-entity>
-      <a-camera position="0 0.5 2" look-controls-enabled="false"></a-camera>
+      {/* <a-camera position="0 0.5 2" look-controls-enabled="false"></a-camera> */}
     </a-scene>
   );
 }
