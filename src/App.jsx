@@ -1,5 +1,3 @@
-import "aframe";
-import "ar.js";
 import { useEffect, useRef } from "react";
 import bulbasaur from "./assets/bulbasaur.glb";
 
